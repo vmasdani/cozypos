@@ -1,0 +1,6 @@
+[submodule "cozypos-backend"]
+	path = cozypos-backend
+	url = https://github.com/vmasdani/cozypos-backend
+[submodule "cozypos-frontend-elm"]
+	path = cozypos-frontend-elm
+	url = https://github.com/vmasdani/cozypos-frontend-elm
