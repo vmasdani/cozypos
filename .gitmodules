@@ -4,3 +4,6 @@
 [submodule "cozypos-frontend-elm"]
 	path = cozypos-frontend-elm
 	url = https://github.com/vmasdani/cozypos-frontend-elm
+[submodule "cozypos-frontend-vue3"]
+	path = cozypos-frontend-vue3
+	url = https://github.com/vmasdani/cozypos-frontend-vue3
